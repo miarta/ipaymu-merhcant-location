@@ -1,0 +1,983 @@
+[
+	{
+		"member_id": 6,
+		"fname": "Akun Demo iPaymu 2023",
+		"email": "igandastuti@gmail.com",
+		"phone": "081939677888",
+		"lat": "-8.670252167200623                                                                                                                                                                                                                                             ",
+		"long": "115.22954531480227                                                                                                                                                                                                                                             ",
+		"last_login_at": "2025-12-17T07:07:21.000Z"
+	},
+	{
+		"member_id": 208,
+		"fname": "Asep Suryana",
+		"email": "asep_suryana@hotmail.com",
+		"phone": "08179221105",
+		"lat": "-6.939104                                                                                                                                                                                                                                                      ",
+		"long": "107.521106                                                                                                                                                                                                                                                     ",
+		"last_login_at": "2023-10-04T01:16:53.000Z"
+	},
+	{
+		"member_id": 243,
+		"fname": "ariesta ningrum",
+		"email": "ariestaningrum.hadi@yahoo.co.id",
+		"phone": "087808780008",
+		"lat": "-6.293019318349232                                                                                                                                                                                                                                             ",
+		"long": "106.74045848000372                                                                                                                                                                                                                                             ",
+		"last_login_at": "2025-03-03T13:32:28.000Z"
+	},
+	{
+		"member_id": 289,
+		"fname": "Kemas Dimas Ramanditya",
+		"email": "kemas.dimas@gmail.com",
+		"phone": "085645428622",
+		"lat": "-6.2526508                                                                                                                                                                                                                                                     ",
+		"long": "106.6162492                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2024-12-11T06:58:43.000Z"
+	},
+	{
+		"member_id": 379,
+		"fname": "rachmad rofik",
+		"email": "saga.komputer@gmail.com",
+		"phone": "081779993977",
+		"lat": "-7.2574719                                                                                                                                                                                                                                                     ",
+		"long": "112.7520883                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2023-10-07T05:52:58.000Z"
+	},
+	{
+		"member_id": 385,
+		"fname": "Sayyidah",
+		"email": "ida@marketbiz.net",
+		"phone": "087750845658",
+		"lat": "-8.6748594                                                                                                                                                                                                                                                     ",
+		"long": "115.2172473                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2025-03-12T02:17:40.000Z"
+	},
+	{
+		"member_id": 415,
+		"fname": "Arief Gunawan",
+		"email": "argunone@gmail.com",
+		"phone": "0811919010",
+		"lat": "0.8714729                                                                                                                                                                                                                                                      ",
+		"long": "117.4556388                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2025-06-24T04:09:50.000Z"
+	},
+	{
+		"member_id": 523,
+		"fname": "Riyeke Ustadiyanto",
+		"email": "riyeke@gmail.com",
+		"phone": "0818349979",
+		"lat": "-6.2257233                                                                                                                                                                                                                                                     ",
+		"long": "106.7988635                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2024-07-30T07:04:59.000Z"
+	},
+	{
+		"member_id": 647,
+		"fname": "Dwi Wahyudi",
+		"email": "bloggerborneo@gmail.com",
+		"phone": "0811561982",
+		"lat": "-0.049152                                                                                                                                                                                                                                                      ",
+		"long": "109.3369856                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2024-10-31T11:06:30.000Z"
+	},
+	{
+		"member_id": 832,
+		"fname": "Hatta Yuthafiga",
+		"email": "crbru.yuthafiga@gmail.com",
+		"phone": "087872514743",
+		"lat": "-6.1775                                                                                                                                                                                                                                                        ",
+		"long": "106.824                                                                                                                                                                                                                                                        ",
+		"last_login_at": "2023-09-14T15:37:10.000Z"
+	},
+	{
+		"member_id": 1689,
+		"fname": "Dheny Setiawan",
+		"email": "dheny@ymail.com",
+		"phone": "08563010000",
+		"lat": "-0.1231856                                                                                                                                                                                                                                                     ",
+		"long": "109.3990468                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2022-12-28T00:22:35.000Z"
+	},
+	{
+		"member_id": 1819,
+		"fname": "BELITUNG DIGITAL",
+		"email": "muhadi.belitung@gmail.com",
+		"phone": "081931717313",
+		"lat": "-2.9760735                                                                                                                                                                                                                                                     ",
+		"long": "104.7754307                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2025-01-15T03:57:28.000Z"
+	},
+	{
+		"member_id": 1966,
+		"fname": "Biatar Samosir",
+		"email": "biatarisa@gmail.com",
+		"phone": "0811613002",
+		"lat": "3.620864                                                                                                                                                                                                                                                       ",
+		"long": "98.6546176                                                                                                                                                                                                                                                     ",
+		"last_login_at": "2024-12-16T13:48:26.000Z"
+	},
+	{
+		"member_id": 2008,
+		"fname": "Heddy Nugroho",
+		"email": "garudapujanegara@yahoo.com",
+		"phone": "087839611133",
+		"lat": "-7.7169566                                                                                                                                                                                                                                                     ",
+		"long": "110.2727783                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2024-12-24T22:55:19.000Z"
+	},
+	{
+		"member_id": 2149,
+		"fname": "Rifky Eryenza",
+		"email": "ikirlavens@gmail.com",
+		"phone": "083180220033",
+		"lat": "-0.4812825                                                                                                                                                                                                                                                     ",
+		"long": "100.6224273                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2024-10-10T04:17:04.000Z"
+	},
+	{
+		"member_id": 2193,
+		"fname": "Nopri Sabmen Simanjuntak",
+		"email": "novry.sabmen@gmail.com",
+		"phone": "0818212989",
+		"lat": "-6.3340544                                                                                                                                                                                                                                                     ",
+		"long": "107.3020928                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2025-08-25T07:49:28.000Z"
+	},
+	{
+		"member_id": 2460,
+		"fname": "Taufik Hidayat",
+		"email": "qaz88bnm@gmail.com",
+		"phone": "081381750599",
+		"lat": "-7.529906739999997                                                                                                                                                                                                                                             ",
+		"long": "109.46926878999996                                                                                                                                                                                                                                             ",
+		"last_login_at": "2025-08-28T23:09:06.000Z"
+	},
+	{
+		"member_id": 2615,
+		"fname": "Yanwar Paniga Rosyid",
+		"email": "yanwar.pro@gmail.com",
+		"phone": "089630331849",
+		"lat": "0.8714729                                                                                                                                                                                                                                                      ",
+		"long": "117.4556388                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2025-06-24T05:58:09.000Z"
+	},
+	{
+		"member_id": 3044,
+		"fname": "Tantan Hilyatana",
+		"email": "tantanmedia@gmail.com",
+		"phone": "081261360326",
+		"lat": "-6.9265254                                                                                                                                                                                                                                                     ",
+		"long": "107.6829586                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2024-06-19T01:53:02.000Z"
+	},
+	{
+		"member_id": 3166,
+		"fname": "Resellr Fee Share",
+		"email": "acc@marketbiz.net",
+		"phone": "081",
+		"lat": "-8.7953431                                                                                                                                                                                                                                                     ",
+		"long": "115.1652008                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2025-07-01T02:58:00.000Z"
+	},
+	{
+		"member_id": 3210,
+		"fname": "Mohammad Yusuf Syafroni Karim",
+		"email": "syafroni@aol.com",
+		"phone": "08155550751",
+		"lat": "-7.98971                                                                                                                                                                                                                                                       ",
+		"long": "112.617101                                                                                                                                                                                                                                                     ",
+		"last_login_at": "2024-10-18T16:51:42.000Z"
+	},
+	{
+		"member_id": 3485,
+		"fname": "Maulana Adrian",
+		"email": "doktermoez@klinikita.co.id",
+		"phone": "08156565763",
+		"lat": "-6.9989483204762495                                                                                                                                                                                                                                            ",
+		"long": "110.43009661399158                                                                                                                                                                                                                                             ",
+		"last_login_at": "2025-11-23T22:18:18.000Z"
+	},
+	{
+		"member_id": 3517,
+		"fname": "mikhael william",
+		"email": "mike2miky@gmail.com",
+		"phone": "08991310666",
+		"lat": "0.8714729                                                                                                                                                                                                                                                      ",
+		"long": "117.4556388                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2025-06-24T05:58:21.000Z"
+	},
+	{
+		"member_id": 3718,
+		"fname": "Muhammad Lutfi hasani",
+		"email": "luthevhasan@yahoo.com",
+		"phone": "087758822284",
+		"lat": "-7.850596                                                                                                                                                                                                                                                      ",
+		"long": "111.4787009                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2023-07-08T13:01:30.000Z"
+	},
+	{
+		"member_id": 3761,
+		"fname": "jajat efendi",
+		"email": "jajate@yahoo.co.id",
+		"phone": "08568609634",
+		"lat": "0.8714729                                                                                                                                                                                                                                                      ",
+		"long": "117.4556388                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2025-06-24T03:30:15.000Z"
+	},
+	{
+		"member_id": 4100,
+		"fname": "dede sumpena",
+		"email": "payment@netizen.my.id",
+		"phone": "083139245670",
+		"lat": "-6.8755546                                                                                                                                                                                                                                                     ",
+		"long": "108.0173747                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2025-12-24T11:19:21.000Z"
+	},
+	{
+		"member_id": 4123,
+		"fname": "Anjrah Susanto",
+		"email": "bloggermarketer@gmail.com",
+		"phone": "081931822389",
+		"lat": "-7.6775424                                                                                                                                                                                                                                                     ",
+		"long": "110.6313216                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2024-12-24T06:11:47.000Z"
+	},
+	{
+		"member_id": 4234,
+		"fname": "Risdiana Hidayat",
+		"email": "arisnickname@gmail.com",
+		"phone": "085717776090",
+		"lat": "-6.2817948                                                                                                                                                                                                                                                     ",
+		"long": "107.0207381                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2025-02-28T09:48:05.000Z"
+	},
+	{
+		"member_id": 4281,
+		"fname": "I Putu Margita Sanjaya",
+		"email": "margita.mail@gmail.com",
+		"phone": "08970832837",
+		"lat": "-6.147477642239955                                                                                                                                                                                                                                             ",
+		"long": "106.85484173849991                                                                                                                                                                                                                                             ",
+		"last_login_at": "2025-10-20T06:20:09.000Z"
+	},
+	{
+		"member_id": 4385,
+		"fname": "Moch Khoirul Faizin",
+		"email": "faizinempok32@yahoo.com",
+		"phone": "085255508935",
+		"lat": "0.4975132                                                                                                                                                                                                                                                      ",
+		"long": "117.5210331                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2023-02-23T06:59:32.000Z"
+	},
+	{
+		"member_id": 4788,
+		"fname": "I Gusti Ayu Ngurah Dwi Astuti",
+		"email": "ayuuahdwi@yahoo.com",
+		"phone": "081854545",
+		"lat": "-8.6748338                                                                                                                                                                                                                                                     ",
+		"long": "115.2172604                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2023-06-14T02:54:36.000Z"
+	},
+	{
+		"member_id": 5074,
+		"fname": "firmansyah",
+		"email": "firmanok@gmail.com",
+		"phone": "08127824380",
+		"lat": "-2.9526143                                                                                                                                                                                                                                                     ",
+		"long": "104.8095074                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2023-07-12T01:42:17.000Z"
+	},
+	{
+		"member_id": 5168,
+		"fname": "Andik veris febriyanto",
+		"email": "ketananna@yahoo.com",
+		"phone": "085732740006",
+		"lat": "-7.4416128                                                                                                                                                                                                                                                     ",
+		"long": "112.4630528                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2024-05-13T16:20:04.000Z"
+	},
+	{
+		"member_id": 5281,
+		"fname": "Sunario",
+		"email": "riosunario07@gmail.com",
+		"phone": "081263136775",
+		"lat": "2.984722                                                                                                                                                                                                                                                       ",
+		"long": "99.6619896                                                                                                                                                                                                                                                     ",
+		"last_login_at": "2025-11-24T23:23:33.000Z"
+	},
+	{
+		"member_id": 6040,
+		"fname": "MUCHAMAD SUPRIYADI",
+		"email": "nurseyadi@gmail.com",
+		"phone": "081585299118",
+		"lat": "-6.2947328                                                                                                                                                                                                                                                     ",
+		"long": "106.9350912                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2024-02-08T13:38:53.000Z"
+	},
+	{
+		"member_id": 6057,
+		"fname": "GDT GLOBAL NETWORK PT",
+		"email": "setiawan702@gmail.com",
+		"phone": "081321784309",
+		"lat": "-6.9007042                                                                                                                                                                                                                                                     ",
+		"long": "107.5981743                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2024-05-08T04:02:36.000Z"
+	},
+	{
+		"member_id": 6111,
+		"fname": "SUHAELY HR",
+		"email": "tehittehit@gmail.com",
+		"phone": "085255007889",
+		"lat": "-5.1206063                                                                                                                                                                                                                                                     ",
+		"long": "119.4303137                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2023-10-04T17:06:54.000Z"
+	},
+	{
+		"member_id": 6181,
+		"fname": "zakiman hamid",
+		"email": "zakimanhamid@gmail.com",
+		"phone": "08385800100",
+		"lat": "-6.2193664                                                                                                                                                                                                                                                     ",
+		"long": "106.8171264                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2023-09-26T14:11:08.000Z"
+	},
+	{
+		"member_id": 6339,
+		"fname": "Arya Prakasa Putra",
+		"email": "prakasa.arya@gmail.com",
+		"phone": "08988896008",
+		"lat": "-6.9206016                                                                                                                                                                                                                                                     ",
+		"long": "107.6199424                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2025-12-13T03:11:50.000Z"
+	},
+	{
+		"member_id": 6775,
+		"fname": "Nasrul Hamdi",
+		"email": "nasrul1984msc@gmail.com",
+		"phone": "08175765905",
+		"lat": "-8.7953431                                                                                                                                                                                                                                                     ",
+		"long": "115.1652008                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2024-03-16T05:13:38.000Z"
+	},
+	{
+		"member_id": 6815,
+		"fname": "Zainal Syam Arifin",
+		"email": "zhetha@gmail.com",
+		"phone": "082290709107",
+		"lat": "-3.9645907                                                                                                                                                                                                                                                     ",
+		"long": "122.4806784                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2023-07-02T02:03:53.000Z"
+	},
+	{
+		"member_id": 7152,
+		"fname": "Zainal Alimuslim Hidayat",
+		"email": "zahidayat@gmail.com",
+		"phone": "081289467467",
+		"lat": "-6.366124550164762                                                                                                                                                                                                                                             ",
+		"long": "106.8147869123459                                                                                                                                                                                                                                              ",
+		"last_login_at": "2025-10-22T09:55:09.000Z"
+	},
+	{
+		"member_id": 7335,
+		"fname": "Nur Fitrian Anggrianto",
+		"email": "mooeg.forum@gmail.com",
+		"phone": "085643401424",
+		"lat": "-7.7717476                                                                                                                                                                                                                                                     ",
+		"long": "110.4326531                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2025-07-04T00:08:28.000Z"
+	},
+	{
+		"member_id": 7349,
+		"fname": "R. Fajar Sulistyo",
+		"email": "fajar.awalpagi@gmail.com",
+		"phone": "0817464115",
+		"lat": "-7.7971466                                                                                                                                                                                                                                                     ",
+		"long": "110.2928716                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2025-03-08T23:19:33.000Z"
+	},
+	{
+		"member_id": 7721,
+		"fname": "Dani Baenurdani",
+		"email": "fskbni@gmail.com",
+		"phone": "085718236715",
+		"lat": "-6.4074214                                                                                                                                                                                                                                                     ",
+		"long": "106.7835865                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2023-12-11T08:51:17.000Z"
+	},
+	{
+		"member_id": 8023,
+		"fname": "Hendra Ardiansyah",
+		"email": "myfrizqi@gmail.com",
+		"phone": "085156787179",
+		"lat": "-7.3269248                                                                                                                                                                                                                                                     ",
+		"long": "112.7677952                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2025-06-24T02:13:44.000Z"
+	},
+	{
+		"member_id": 8179,
+		"fname": "Miftakhul Ulum Syaifulloh",
+		"email": "miftasoft@gmail.com",
+		"phone": "085655301985",
+		"lat": "-7.554981129654969                                                                                                                                                                                                                                             ",
+		"long": "112.48952430658846                                                                                                                                                                                                                                             ",
+		"last_login_at": "2025-12-15T07:43:09.000Z"
+	},
+	{
+		"member_id": 8493,
+		"fname": "Riza Arfian",
+		"email": "riza.bahasuan@gmail.com",
+		"phone": "08113867337",
+		"lat": "-8.707364                                                                                                                                                                                                                                                      ",
+		"long": "115.2290163                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2023-02-28T01:27:39.000Z"
+	},
+	{
+		"member_id": 9175,
+		"fname": "Citari Berkah Mandiri",
+		"email": "rsumantri@hotmail.co.id",
+		"phone": "085947599679",
+		"lat": "-8.6933504                                                                                                                                                                                                                                                     ",
+		"long": "115.2155648                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2024-10-12T04:45:35.000Z"
+	},
+	{
+		"member_id": 9835,
+		"fname": "Herastu Rizka Widorini",
+		"email": "herastu@gmail.com",
+		"phone": "08123037920",
+		"lat": "-7.9824111                                                                                                                                                                                                                                                     ",
+		"long": "112.6360839                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2024-07-10T18:05:46.000Z"
+	},
+	{
+		"member_id": 10621,
+		"fname": "Maman Soleman",
+		"email": "maman.malmsteen212@gmail.com",
+		"phone": "081312905123",
+		"lat": "0.8714729                                                                                                                                                                                                                                                      ",
+		"long": "117.4556388                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2025-06-24T04:30:28.000Z"
+	},
+	{
+		"member_id": 10793,
+		"fname": "m sanudin",
+		"email": "sanudin05@gmail.com",
+		"phone": "085881672562",
+		"lat": "-6.1922739                                                                                                                                                                                                                                                     ",
+		"long": "107.4839966                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2023-11-20T07:42:55.000Z"
+	},
+	{
+		"member_id": 11091,
+		"fname": "Mushallin",
+		"email": "imus.trick@gmail.com",
+		"phone": "087890255510",
+		"lat": "2.647116659999999                                                                                                                                                                                                                                              ",
+		"long": "98.00420378999996                                                                                                                                                                                                                                              ",
+		"last_login_at": "2023-10-24T14:25:03.000Z"
+	},
+	{
+		"member_id": 11183,
+		"fname": "Kukuh Tripamungkas Wicaksono",
+		"email": "kukuhtw@gmail.com",
+		"phone": "08129893706",
+		"lat": "-6.2369816                                                                                                                                                                                                                                                     ",
+		"long": "106.9073433                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2023-12-11T14:54:15.000Z"
+	},
+	{
+		"member_id": 11665,
+		"fname": "Bima Arba Wijaya",
+		"email": "bima4wijaya@gmail.com",
+		"phone": "081357826644",
+		"lat": "-7.2482816                                                                                                                                                                                                                                                     ",
+		"long": "112.7088128                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2024-05-14T06:33:12.000Z"
+	},
+	{
+		"member_id": 11739,
+		"fname": "yuda pratama",
+		"email": "folkwayse@gmail.com",
+		"phone": "089673106892",
+		"lat": "-7.5472515                                                                                                                                                                                                                                                     ",
+		"long": "110.1998238                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2024-09-08T23:51:09.000Z"
+	},
+	{
+		"member_id": 12123,
+		"fname": "Syukron H",
+		"email": "abysyukron@gmail.com",
+		"phone": "087886964878",
+		"lat": "-7.0975488                                                                                                                                                                                                                                                     ",
+		"long": "112.9381888                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2024-09-28T15:25:20.000Z"
+	},
+	{
+		"member_id": 12139,
+		"fname": "agus nur muhaimin",
+		"email": "binggo_53@yahoo.co.id",
+		"phone": "082131104337",
+		"lat": "0.8714729                                                                                                                                                                                                                                                      ",
+		"long": "117.4556388                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2025-06-24T10:29:03.000Z"
+	},
+	{
+		"member_id": 12675,
+		"fname": "Prastyo Abdi Nugroho",
+		"email": "prazzn@rocketmail.com",
+		"phone": "085749583005",
+		"lat": "-2.9277109                                                                                                                                                                                                                                                     ",
+		"long": "114.9279431                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2025-02-15T08:01:45.000Z"
+	},
+	{
+		"member_id": 12997,
+		"fname": "ferdiansyah",
+		"email": "ferdicemara@yahoo.com",
+		"phone": "000000000000000000",
+		"lat": "-7.979008                                                                                                                                                                                                                                                      ",
+		"long": "112.6662144                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2024-08-22T08:20:10.000Z"
+	},
+	{
+		"member_id": 14301,
+		"fname": "Mohamad Anton Arizal",
+		"email": "antonarizal@gmail.com",
+		"phone": "085235964310",
+		"lat": "-8.0740352                                                                                                                                                                                                                                                     ",
+		"long": "111.8797824                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2024-10-23T21:28:53.000Z"
+	},
+	{
+		"member_id": 15193,
+		"fname": "Made Werdianta",
+		"email": "ipaymu@werdimedia.com",
+		"phone": "085183178762",
+		"lat": "-8.100061989621079                                                                                                                                                                                                                                             ",
+		"long": "115.10357378620691                                                                                                                                                                                                                                             ",
+		"last_login_at": "2025-05-03T23:51:14.000Z"
+	},
+	{
+		"member_id": 15343,
+		"fname": "hery fajar isnawan",
+		"email": "hery.fajar.isnawan@gmail.com",
+		"phone": "0817461372",
+		"lat": "0.8714729                                                                                                                                                                                                                                                      ",
+		"long": "117.4556388                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2025-06-24T10:28:29.000Z"
+	},
+	{
+		"member_id": 16403,
+		"fname": "Rendra Yugananta",
+		"email": "rendra.yugananta@gmail.com",
+		"phone": "02819880100",
+		"lat": "-7.3481376                                                                                                                                                                                                                                                     ",
+		"long": "108.2308733                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2024-08-05T15:06:20.000Z"
+	},
+	{
+		"member_id": 17581,
+		"fname": "Mansur Usman",
+		"email": "mansur.ur@gmail.com",
+		"phone": "082133332307",
+		"lat": "-7.7213164                                                                                                                                                                                                                                                     ",
+		"long": "110.3904715                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2025-01-21T20:34:48.000Z"
+	},
+	{
+		"member_id": 17725,
+		"fname": "Sahabat iPaymu Indonesia",
+		"email": "ariesta0810@gmail.com",
+		"phone": "0818545458",
+		"lat": "-8.674817514222324                                                                                                                                                                                                                                             ",
+		"long": "115.21729114146827                                                                                                                                                                                                                                             ",
+		"last_login_at": "2025-09-26T05:12:48.000Z"
+	},
+	{
+		"member_id": 17744,
+		"fname": "SIRIN BAYU AJI",
+		"email": "admin@centertrx.com",
+		"phone": "08112810811",
+		"lat": "-7.5648565                                                                                                                                                                                                                                                     ",
+		"long": "109.5665586                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2024-01-13T22:58:55.000Z"
+	},
+	{
+		"member_id": 17976,
+		"fname": "NGALIMAN",
+		"email": "ngaliman2402@gmail.com",
+		"phone": "087739525766",
+		"lat": "-7.8006168                                                                                                                                                                                                                                                     ",
+		"long": "110.4091268                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2025-07-27T17:39:17.000Z"
+	},
+	{
+		"member_id": 18143,
+		"fname": "Parlin Solutions",
+		"email": "moasisantonio@gmail.com",
+		"phone": "08116665205",
+		"lat": "1.0593735                                                                                                                                                                                                                                                      ",
+		"long": "103.9756769                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2024-05-12T12:36:43.000Z"
+	},
+	{
+		"member_id": 18162,
+		"fname": "imam prihadiyoko",
+		"email": "imamp@ymail.com",
+		"phone": "08121014963",
+		"lat": "-6.3253635                                                                                                                                                                                                                                                     ",
+		"long": "106.6743766                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2023-10-12T13:25:23.000Z"
+	},
+	{
+		"member_id": 18521,
+		"fname": "Ahmad Wirawan",
+		"email": "aawirawan@gmail.com",
+		"phone": "0811114951",
+		"lat": "-6.3186515                                                                                                                                                                                                                                                     ",
+		"long": "106.7503743                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2025-03-25T15:15:57.000Z"
+	},
+	{
+		"member_id": 18542,
+		"fname": "M Herman Biantoro",
+		"email": "herman.biantoro@gmail.com",
+		"phone": "08111262525",
+		"lat": "-6.1362684                                                                                                                                                                                                                                                     ",
+		"long": "106.8597328                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2024-07-01T10:23:41.000Z"
+	},
+	{
+		"member_id": 18587,
+		"fname": "Chairul Saleh",
+		"email": "chairulsaleh86@gmail.com",
+		"phone": "08568108056",
+		"lat": "-6.2025974                                                                                                                                                                                                                                                     ",
+		"long": "106.8242977                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2022-12-08T08:50:53.000Z"
+	},
+	{
+		"member_id": 18651,
+		"fname": "Juhartono",
+		"email": "juhartono@ymail.com",
+		"phone": "081310334040",
+		"lat": "-6.1669676                                                                                                                                                                                                                                                     ",
+		"long": "106.8399698                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2024-03-13T06:53:10.000Z"
+	},
+	{
+		"member_id": 18936,
+		"fname": "Hari Mulyono",
+		"email": "harimulyono39@gmail.com",
+		"phone": "085643733095",
+		"lat": "-7.8451673                                                                                                                                                                                                                                                     ",
+		"long": "110.2650675                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2025-12-25T21:33:15.000Z"
+	},
+	{
+		"member_id": 18988,
+		"fname": "adi sutomo",
+		"email": "adilla.cuitcuitz@gmail.com",
+		"phone": "085735707070",
+		"lat": "-7.7259062                                                                                                                                                                                                                                                     ",
+		"long": "111.5349059                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2024-01-26T01:16:16.000Z"
+	},
+	{
+		"member_id": 19089,
+		"fname": "I Wayan Suryagama",
+		"email": "financial@infoumkmindonesia.com",
+		"phone": "085792361657",
+		"lat": "-8.5311501                                                                                                                                                                                                                                                     ",
+		"long": "115.397504                                                                                                                                                                                                                                                     ",
+		"last_login_at": "2024-05-11T05:31:52.000Z"
+	},
+	{
+		"member_id": 19167,
+		"fname": "Mutasim Ridlo",
+		"email": "payments@mutasimridlo.com",
+		"phone": "085318989981",
+		"lat": "-6.9818006                                                                                                                                                                                                                                                     ",
+		"long": "110.4120729                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2024-06-15T11:00:06.000Z"
+	},
+	{
+		"member_id": 19180,
+		"fname": "Purba Kuncaraningrat HP",
+		"email": "purbakhp@gmail.com",
+		"phone": "085755987055",
+		"lat": "-7.831552                                                                                                                                                                                                                                                      ",
+		"long": "112.017408                                                                                                                                                                                                                                                     ",
+		"last_login_at": "2025-04-21T01:31:32.000Z"
+	},
+	{
+		"member_id": 19186,
+		"fname": "Hery Sudrajat",
+		"email": "herysudrajat@gmail.com",
+		"phone": "085194349543",
+		"lat": "0.8714729                                                                                                                                                                                                                                                      ",
+		"long": "117.4556388                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2025-06-23T22:08:44.000Z"
+	},
+	{
+		"member_id": 19234,
+		"fname": "Moh Nur Azis",
+		"email": "azeznoor@gmail.com",
+		"phone": "081333881359",
+		"lat": "38.883333                                                                                                                                                                                                                                                      ",
+		"long": "-77                                                                                                                                                                                                                                                            ",
+		"last_login_at": "2025-07-23T23:12:43.000Z"
+	},
+	{
+		"member_id": 19355,
+		"fname": "Muhammad Munawir",
+		"email": "rgtiket@gmail.com",
+		"phone": "085747460235",
+		"lat": "-7.9199682                                                                                                                                                                                                                                                     ",
+		"long": "110.2256888                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2025-11-12T11:22:32.000Z"
+	},
+	{
+		"member_id": 19622,
+		"fname": "Y Widyanto Broto Kanoko",
+		"email": "bisnisluarbiasa@gmail.com",
+		"phone": "081338649082",
+		"lat": "-6.22592                                                                                                                                                                                                                                                       ",
+		"long": "106.8302336                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2024-02-07T19:32:32.000Z"
+	},
+	{
+		"member_id": 19688,
+		"fname": "Rihart Amon Manurung",
+		"email": "rihartmanurung@gmail.com",
+		"phone": "08994591956",
+		"lat": "47.5412021                                                                                                                                                                                                                                                     ",
+		"long": "-122.2675625                                                                                                                                                                                                                                                   ",
+		"last_login_at": "2025-12-16T04:03:41.000Z"
+	},
+	{
+		"member_id": 19791,
+		"fname": "Roni Herdian",
+		"email": "herdianrony@gmail.com",
+		"phone": "02192791244",
+		"lat": "-6.6027837                                                                                                                                                                                                                                                     ",
+		"long": "106.66929                                                                                                                                                                                                                                                      ",
+		"last_login_at": "2025-12-05T02:43:37.000Z"
+	},
+	{
+		"member_id": 19937,
+		"fname": "Didi Arsandi",
+		"email": "arsandi1988@gmail.com",
+		"phone": "085367169888",
+		"lat": "0.8714729                                                                                                                                                                                                                                                      ",
+		"long": "117.4556388                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2025-06-24T02:04:51.000Z"
+	},
+	{
+		"member_id": 20143,
+		"fname": "Hadi Wibowo",
+		"email": "hadiekp@gmail.com",
+		"phone": "082142608823",
+		"lat": "-7.962624                                                                                                                                                                                                                                                      ",
+		"long": "112.6432768                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2025-12-21T22:50:54.000Z"
+	},
+	{
+		"member_id": 20770,
+		"fname": "Dian Fajarriyanto",
+		"email": "dian_fajar@outlook.com",
+		"phone": "08985700979",
+		"lat": "-7.371905789504709                                                                                                                                                                                                                                             ",
+		"long": "110.50645498246362                                                                                                                                                                                                                                             ",
+		"last_login_at": "2025-10-03T05:25:12.000Z"
+	},
+	{
+		"member_id": 20922,
+		"fname": "Amsori",
+		"email": "aam.amsori@gmail.com",
+		"phone": "0811240482",
+		"lat": "-6.6954541                                                                                                                                                                                                                                                     ",
+		"long": "108.4279083                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2024-10-02T08:58:34.000Z"
+	},
+	{
+		"member_id": 21143,
+		"fname": "Fikri Wirawan",
+		"email": "fikriwirawan@gmail.com",
+		"phone": "08562193484",
+		"lat": "-6.32019042968713                                                                                                                                                                                                                                              ",
+		"long": "106.78451538085933                                                                                                                                                                                                                                             ",
+		"last_login_at": "2025-12-23T11:47:22.000Z"
+	},
+	{
+		"member_id": 21210,
+		"fname": "Hafizi",
+		"email": "hafiz1709@gmail.com",
+		"phone": "081274621143",
+		"lat": "-2.927807318649085                                                                                                                                                                                                                                             ",
+		"long": "104.73947232798422                                                                                                                                                                                                                                             ",
+		"last_login_at": "2025-06-16T02:58:28.000Z"
+	},
+	{
+		"member_id": 21364,
+		"fname": "saiful anam",
+		"email": "iffulanam@gmail.com",
+		"phone": "085350411100",
+		"lat": "0.6307451                                                                                                                                                                                                                                                      ",
+		"long": "110.3591984                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2025-09-23T10:08:01.000Z"
+	},
+	{
+		"member_id": 21817,
+		"fname": "Ajie Jiwandono",
+		"email": "ajiejiwandono@gmail.com",
+		"phone": "081287991082",
+		"lat": "-6.209536                                                                                                                                                                                                                                                      ",
+		"long": "106.6369024                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2025-02-18T08:35:14.000Z"
+	},
+	{
+		"member_id": 22045,
+		"fname": "Anna arthdi putra",
+		"email": "aerdy4@gmail.com",
+		"phone": "082226224552",
+		"lat": "-7.688871156150268                                                                                                                                                                                                                                             ",
+		"long": "110.43018132541461                                                                                                                                                                                                                                             ",
+		"last_login_at": "2025-11-18T01:54:00.000Z"
+	},
+	{
+		"member_id": 22182,
+		"fname": "Yoseph Natanael",
+		"email": "drnatan@yahoo.co.id",
+		"phone": "08158717757",
+		"lat": "-5.443423837030765                                                                                                                                                                                                                                             ",
+		"long": "105.28038826640703                                                                                                                                                                                                                                             ",
+		"last_login_at": "2024-05-23T07:27:41.000Z"
+	},
+	{
+		"member_id": 22556,
+		"fname": "adiguna wibisono",
+		"email": "arviezto182@gmail.com",
+		"phone": "085730164164",
+		"lat": "-7.2307617                                                                                                                                                                                                                                                     ",
+		"long": "112.7525441                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2024-12-13T14:55:27.000Z"
+	},
+	{
+		"member_id": 22910,
+		"fname": "Agus Hermawan ",
+		"email": "hermawan.jbr@gmail.com",
+		"phone": "081216837801",
+		"lat": "-8.1981653                                                                                                                                                                                                                                                     ",
+		"long": "113.6140883                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2025-01-27T14:00:35.000Z"
+	},
+	{
+		"member_id": 23054,
+		"fname": "Bayu pratama",
+		"email": "pranatawahyu5@gmail.com",
+		"phone": "082392906464",
+		"lat": "0.5070677                                                                                                                                                                                                                                                      ",
+		"long": "101.4477793                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2024-09-20T01:18:05.000Z"
+	},
+	{
+		"member_id": 23071,
+		"fname": "HARRIS YOGASARA",
+		"email": "hrace009@gmail.com",
+		"phone": "081210333773",
+		"lat": "0.42403961594368667                                                                                                                                                                                                                                            ",
+		"long": "101.41104891403364                                                                                                                                                                                                                                             ",
+		"last_login_at": "2025-12-24T15:07:06.000Z"
+	},
+	{
+		"member_id": 23580,
+		"fname": "galih johan mintorogo",
+		"email": "galihmintaraga@gmail.com",
+		"phone": "082133295089",
+		"lat": "-6.5883877                                                                                                                                                                                                                                                     ",
+		"long": "110.6677346                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2023-11-06T06:42:56.000Z"
+	},
+	{
+		"member_id": 24315,
+		"fname": "Tri Haidar Muhammad",
+		"email": "hdrmuhammad17@gmail.com",
+		"phone": "085158554675",
+		"lat": "-7.2820032                                                                                                                                                                                                                                                     ",
+		"long": "112.7400989                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2025-11-14T06:33:23.000Z"
+	},
+	{
+		"member_id": 24334,
+		"fname": "M RUCHIYAT",
+		"email": "mruchiyat@gmail.com",
+		"phone": "08124607659",
+		"lat": "-8.79974453592033                                                                                                                                                                                                                                              ",
+		"long": "115.18157704815329                                                                                                                                                                                                                                             ",
+		"last_login_at": "2025-08-15T05:18:17.000Z"
+	},
+	{
+		"member_id": 24501,
+		"fname": "Wiliandi Asmara",
+		"email": "wiliandi@proton.me",
+		"phone": "087898980444",
+		"lat": "-6.9762967                                                                                                                                                                                                                                                     ",
+		"long": "106.7197505                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2023-01-16T04:24:06.000Z"
+	},
+	{
+		"member_id": 24760,
+		"fname": "Tommy Sebastian Lessiohadi",
+		"email": "tommy.s.billing@gmail.com",
+		"phone": "08179312219",
+		"lat": "-7.2808365                                                                                                                                                                                                                                                     ",
+		"long": "112.7391299                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2025-03-27T07:37:14.000Z"
+	},
+	{
+		"member_id": 24969,
+		"fname": "Arie Tri Ismawan",
+		"email": "arie_ismawan@yahoo.com",
+		"phone": "08561869908",
+		"lat": "-6.175877673105831                                                                                                                                                                                                                                             ",
+		"long": "106.81161020731659                                                                                                                                                                                                                                             ",
+		"last_login_at": "2025-08-04T08:35:22.000Z"
+	},
+	{
+		"member_id": 25076,
+		"fname": "Michael Seno Setiawan",
+		"email": "michael.setiawan@gmail.com",
+		"phone": "085814520668",
+		"lat": "-6.225116163234753                                                                                                                                                                                                                                             ",
+		"long": "106.81421383003548                                                                                                                                                                                                                                             ",
+		"last_login_at": "2025-01-21T04:22:36.000Z"
+	},
+	{
+		"member_id": 25134,
+		"fname": "Riska Qomarul Amma",
+		"email": "xaam07@gmail.com",
+		"phone": "085730065717",
+		"lat": "-6.4300437                                                                                                                                                                                                                                                     ",
+		"long": "106.8534532                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2025-07-22T20:52:01.000Z"
+	},
+	{
+		"member_id": 25553,
+		"fname": "Fahrizal",
+		"email": "ibnu.mukhdar@gmail.com",
+		"phone": "081515831992",
+		"lat": "-2.519115                                                                                                                                                                                                                                                      ",
+		"long": "112.9533074                                                                                                                                                                                                                                                    ",
+		"last_login_at": "2024-12-15T02:07:59.000Z"
+	},
+	{
+		"member_id": 25575,
+		"fname": "faridudin arrido",
+		"email": "farid.arrd@gmail.com",
+		"phone": "085692237388",
+		"lat": "37.368381                                                                                                                                                                                                                                                      ",
+		"long": "-5.9809885                                                                                                                                                                                                                                                     ",
+		"last_login_at": "2025-12-19T08:03:22.000Z"
+	}
+]
