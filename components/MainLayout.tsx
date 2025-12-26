@@ -12,6 +12,18 @@ interface MainLayoutProps {
 export default function MainLayout({ data }: MainLayoutProps) {
     const [isSidebarOpen, setIsSidebarOpen] = useState(true);
     const [displayLimit, setDisplayLimit] = useState(10);
+    const [currentPage, setCurrentPage] = useState(1);
+
+    // Calculate pagination
+    const totalPages = Math.ceil(data.length / displayLimit);
+    const startIndex = (currentPage - 1) * displayLimit;
+    const visibleData = displayLimit === 0 ? [] : data.slice(startIndex, startIndex + displayLimit);
+
+    // Reset to page 1 when limit changes
+    const handleLimitChange = (limit: number) => {
+        setDisplayLimit(limit);
+        setCurrentPage(1);
+    };
 
     return (
         <main className="h-screen w-screen bg-slate-50 flex overflow-hidden font-sans relative">
@@ -23,10 +35,13 @@ export default function MainLayout({ data }: MainLayoutProps) {
                 <div className="w-80 h-full">
                     <Sidebar
                         totalMerchants={data.length}
-                        recentMerchants={data}
+                        recentMerchants={visibleData}
                         displayLimit={displayLimit}
-                        setDisplayLimit={setDisplayLimit}
+                        setDisplayLimit={handleLimitChange}
                         onToggle={() => setIsSidebarOpen(!isSidebarOpen)}
+                        currentPage={currentPage}
+                        totalPages={totalPages}
+                        onPageChange={setCurrentPage}
                     />
                 </div>
             </div>
@@ -45,7 +60,7 @@ export default function MainLayout({ data }: MainLayoutProps) {
 
             {/* Main Content */}
             <div className="flex-1 h-full relative z-0 bg-slate-100">
-                <MapWrapper data={data} displayLimit={displayLimit} />
+                <MapWrapper data={visibleData} displayLimit={displayLimit} />
             </div>
         </main>
     );

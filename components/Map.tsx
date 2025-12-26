@@ -75,6 +75,10 @@ const createCustomIcon = (count?: number) => {
     });
 };
 
+// ... imports
+
+// ... props
+
 export default function Map({ data, manualCoordinates, displayLimit }: MapProps) {
     // Clean and filter invalid coordinates
     const validMarkers = data.filter(d => {
@@ -87,7 +91,10 @@ export default function Map({ data, manualCoordinates, displayLimit }: MapProps)
         cleanedLong: parseFloat(d.long.trim()),
     }));
 
-    const limitedMarkers = displayLimit === 0 ? [] : validMarkers.slice(0, displayLimit);
+    // Data is already paginated by parent, so we don't slice it here anymore.
+    const limitedMarkers = validMarkers;
+
+    // ... rest of the component
 
     const center: [number, number] = [-2.5, 118]; // Centered on Indonesia
     const zoom = 5;

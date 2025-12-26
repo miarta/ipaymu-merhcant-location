@@ -8,12 +8,22 @@ interface SidebarProps {
     onToggle?: () => void;
     displayLimit: number;
     setDisplayLimit: (limit: number) => void;
+    currentPage: number;
+    totalPages: number;
+    onPageChange: (page: number) => void;
 }
 
-export default function Sidebar({ totalMerchants, recentMerchants, onToggle, displayLimit, setDisplayLimit }: SidebarProps) {
+export default function Sidebar({
+    totalMerchants,
+    recentMerchants,
+    onToggle,
+    displayLimit,
+    setDisplayLimit,
+    currentPage,
+    totalPages,
+    onPageChange
+}: SidebarProps) {
     const [isMenuOpen, setIsMenuOpen] = useState(false);
-
-    const displayedMerchants = displayLimit === 0 ? [] : recentMerchants.slice(0, displayLimit);
 
     return (
         <aside className="w-80 bg-white h-full flex flex-col border-r border-slate-200 shadow-sm z-20">
@@ -52,17 +62,18 @@ export default function Sidebar({ totalMerchants, recentMerchants, onToggle, dis
             </div>
 
             {/* Merchant List */}
-            <div className="flex-1 overflow-y-auto">
-                <div className="p-4">
+            <div className="flex-1 overflow-y-auto flex flex-col">
+                <div className="p-4 flex-1">
                     <div className="flex items-center justify-between mb-3 relative">
                         <h3 className="text-xs font-semibold text-slate-400 uppercase tracking-wider">Active Merchants</h3>
                         <button
                             id="merchant-list"
                             onClick={() => setIsMenuOpen(!isMenuOpen)}
-                            className="text-slate-400 hover:text-slate-600 p-1 rounded hover:bg-slate-100"
+                            className="text-slate-400 hover:text-slate-600 p-1 rounded hover:bg-slate-100 flex items-center gap-1 text-xs"
                         >
+                            <span>Show {displayLimit}</span>
                             <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 12h.01M12 12h.01M19 12h.01M6 12a1 1 0 11-2 0 1 1 0 012 0zm7 0a1 1 0 11-2 0 1 1 0 012 0zm7 0a1 1 0 11-2 0 1 1 0 012 0z" />
+                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
                             </svg>
                         </button>
 
@@ -92,20 +103,39 @@ export default function Sidebar({ totalMerchants, recentMerchants, onToggle, dis
                                     >
                                         Show 100
                                     </button>
-                                    <div className="h-px bg-slate-100 my-1"></div>
-                                    <button
-                                        onClick={() => { setDisplayLimit(0); setIsMenuOpen(false); }}
-                                        className={`w-full text-left px-4 py-2 text-xs font-medium text-red-500 hover:bg-red-50 transition-colors ${displayLimit === 0 ? 'bg-red-50' : ''}`}
-                                    >
-                                        Remove All
-                                    </button>
                                 </div>
                             </>
                         )}
                     </div>
+                    <div className="p-4">
+                        <div className="flex items-center justify-between">
+                            <button
+                                onClick={() => onPageChange(Math.max(1, currentPage - 1))}
+                                disabled={currentPage === 1}
+                                className="p-2 hover:bg-white rounded-lg transition-colors disabled:opacity-50 disabled:cursor-not-allowed text-slate-500 border border-transparent hover:border-slate-200"
+                            >
+                                <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
+                                </svg>
+                            </button>
 
+                            <span className="text-xs font-medium text-slate-500">
+                                Page <span className="text-slate-900 font-bold">{currentPage}</span> of {totalPages}
+                            </span>
+
+                            <button
+                                onClick={() => onPageChange(Math.min(totalPages, currentPage + 1))}
+                                disabled={currentPage === totalPages}
+                                className="p-2 hover:bg-white rounded-lg transition-colors disabled:opacity-50 disabled:cursor-not-allowed text-slate-500 border border-transparent hover:border-slate-200"
+                            >
+                                <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                                </svg>
+                            </button>
+                        </div>
+                    </div>
                     <div className="space-y-3">
-                        {displayedMerchants.map((merchant) => (
+                        {recentMerchants.map((merchant) => (
                             <div key={merchant.member_id} className="p-3 bg-white border border-slate-100 rounded-xl shadow-sm hover:shadow-md transition-shadow cursor-pointer group">
                                 <div className="flex justify-between items-start mb-2">
                                     <h4 className="font-bold text-sm text-slate-800 line-clamp-1">{merchant.fname}</h4>
@@ -117,6 +147,35 @@ export default function Sidebar({ totalMerchants, recentMerchants, onToggle, dis
                                 <p className="text-[10px] text-slate-400">Login: {new Date(merchant.last_login_at).toLocaleDateString()}</p>
                             </div>
                         ))}
+                    </div>
+                </div>
+
+                {/* Pagination Controls */}
+                <div className="p-4 border-t border-slate-100 bg-slate-50/50">
+                    <div className="flex items-center justify-between">
+                        <button
+                            onClick={() => onPageChange(Math.max(1, currentPage - 1))}
+                            disabled={currentPage === 1}
+                            className="p-2 hover:bg-white rounded-lg transition-colors disabled:opacity-50 disabled:cursor-not-allowed text-slate-500 border border-transparent hover:border-slate-200"
+                        >
+                            <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
+                            </svg>
+                        </button>
+
+                        <span className="text-xs font-medium text-slate-500">
+                            Page <span className="text-slate-900 font-bold">{currentPage}</span> of {totalPages}
+                        </span>
+
+                        <button
+                            onClick={() => onPageChange(Math.min(totalPages, currentPage + 1))}
+                            disabled={currentPage === totalPages}
+                            className="p-2 hover:bg-white rounded-lg transition-colors disabled:opacity-50 disabled:cursor-not-allowed text-slate-500 border border-transparent hover:border-slate-200"
+                        >
+                            <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                            </svg>
+                        </button>
                     </div>
                 </div>
             </div>
